@@ -1,5 +1,5 @@
 FROM python:3.9
-WORKDIR /scrap
-RUN pip install -e files/requirements.txt
-COPY main.py .
+WORKDIR /.
+COPY . .
+RUN pip install -r /files/requirements.txt
 CMD ["python", "main.py"]
