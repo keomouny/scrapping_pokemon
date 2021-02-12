@@ -1,8 +1,8 @@
-02/12/2021 01:1531 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/12/2021 01:1532 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/12/2021 01:1532 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/12/2021 01:1532 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/12/2021 01:1532 PM - Create data [<div class="entry__item">
+02/12/2021 03:5303 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/12/2021 03:5303 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/12/2021 03:5303 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/12/2021 03:5304 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/12/2021 03:5304 PM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/dossier/selection-films-saint-valentin/" id="" title="Saint-Valentin : que regarder sur Netflix, Amazon, OCS et Disney+?">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/02/stvalentin-scaled/415333832.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/02/stvalentin-scaled/647143086.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -36,6 +36,84 @@
 											Twitter envisage de proposer une version payante de son application										</h3>
 <span class="entry__category">
 													apps												</span>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/ratchet-clank-rift-apart-la-date-officielle-a-ete-annoncee/" title="Ratchet &amp; Clank : Rift Apart, la date officielle a été annoncée !">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/2021-02-12-2/2120703743.png , https://www.journaldugeek.com/content/uploads/cache/2021/02/2021-02-12-2/2120703743.png 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Jeux Vidéo												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Ratchet &amp; Clank : Rift Apart, la date officielle a été annoncée !</h3>
+<p>Le jeu va débarquer sur PS5 le 11 juin prochain, c’est à dire dans moins de quatre mois, et est ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/bon-plan/le-chargeur-aukey-65-w-rechargera-tout-pour-2775-euros-seulement/" title="Le chargeur Aukey 65 W rechargera tout pour 27,75 euros seulement">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/aukey/2649547921.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/aukey/2649547921.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Informatique												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Le chargeur Aukey 65 W rechargera tout pour 27,75 euros seulement</h3>
+<p>Le best-seller du fabricant Aukey est à prix cassé chez Amazon. Il profite d’un code ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/amazon-veut-lancer-sa-propre-monnaie-numerique/" title="Amazon veut lancer sa propre monnaie numérique">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/09/christian-wiediger-rymh7ezpqrs-unsplash/4213305434.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/09/christian-wiediger-rymh7ezpqrs-unsplash/4213305434.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Business												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Amazon veut lancer sa propre monnaie numérique</h3>
+<p>Le géant du e-commerce Amazon veut se lancer dans la création de sa propre monnaie numérique ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/605186461.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/605186461.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Sécurité												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre</h3>
+<p>Une attaque massive a conduit à la fuite de 3,2 milliards de comptes et mots de passe appartenant ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/pokemon-post-malone-va-donner-un-concert-pour-les-25-ans/" title="Pokémon : Post Malone va donner un concert pour les 25 ans">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/capture-decran-2021-02-12-093316/2646846058.png , https://www.journaldugeek.com/content/uploads/cache/2021/02/capture-decran-2021-02-12-093316/2646846058.png 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Evénement												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Pokémon : Post Malone va donner un concert pour les 25 ans</h3>
+<p>Pour les 25 ans de sa franchise culte, Nintendo a annoncé l’arrivée d’un évènement musical ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/bouygues-telecom-augmente-le-prix-de-certains-forfaits-sans-possibilite-de-refus/" title="Bouygues Telecom augmente le prix de certains forfaits, sans possibilité de refus">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/bouygues4/3241161933.png , https://www.journaldugeek.com/content/uploads/cache/2021/02/bouygues4/3241161933.png 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Télécom												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Bouygues Telecom augmente le prix de certains forfaits, sans possibilité de refus</h3>
+<p>Après SFR et Orange, Bouygues Telecom vient une nouvelle fois d’être épinglé pour avoir ...</p>
+</div>
 </a>
 </div>, <div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/hbo-max-arrive-officiellement-en-europe-mais-pas-en-france/" title="HBO Max arrive officiellement en Europe (mais pas en France)">
@@ -103,84 +181,6 @@
 </div>
 </a>
 </div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/surface-duo-lancee-a-1-549e-en-france-elle-passe-aussi-a-999-aux-etats-unis/" title="Surface Duo : lancée à 1 549€ en France, elle passe aussi à 999$ aux États-Unis">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/surface-duo-173e3123458-medium/1108514807.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/surface-duo-173e3123458-medium/1108514807.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Microsoft												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Surface Duo : lancée à 1 549€ en France, elle passe aussi à 999$ aux États-Unis</h3>
-<p>On y retrouve un SoC Snapdragon 855 de chez Qualcomm, et le « smartphone » n’est de ce fait ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/bon-plan/promo-oneplus-buds-z/" title="[Bon Plan] Les écouteurs TWS OnePlus Buds Z à 38 euros !">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/12/admin-ajax/833160806.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/12/admin-ajax/833160806.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													audio												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">[Bon Plan] Les écouteurs TWS OnePlus Buds Z à 38 euros !</h3>
-<p>Les derniers écouteurs TWS OnePlus Buds Z ont à un prix imbattable actuellement.</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/instagram-va-sanctionner-plus-severement-les-discours-haineux/" title="Instagram va sanctionner plus sévèrement les discours haineux">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2017/09/instagram-6-millions-comptes-piratage-securité/1153121343.png , https://www.journaldugeek.com/content/uploads/cache/2017/09/instagram-6-millions-comptes-piratage-securité/1153121343.png 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													apps												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Instagram va sanctionner plus sévèrement les discours haineux</h3>
-<p>Instagram ne laissera aucun répit à ceux qui partagent des messages haineux sur sa plateforme et ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/bon-plan/ideal-pour-le-streaming-le-xiaomi-mi-tv-stick-a-29-euros/" title="[Soldes] Idéal pour le streaming, le Xiaomi Mi TV Stick à 29 euros">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/12/mi-tv-stick/119709460.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/12/mi-tv-stick/119709460.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													gadgets												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">[Soldes] Idéal pour le streaming, le Xiaomi Mi TV Stick à 29 euros</h3>
-<p>La clé HDMI de Xiaomi est idéale pour le streaming.  On la retrouve aujourd'hui chez Cdiscount à ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/true-detective-une-nouvelle-saison-par-le-createur-deuphoria/" title="True Detective : une nouvelle saison par le créateur d’Euphoria ?">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2018/04/g3ikr4w95c8eivhzuiyxbjiuixt/3631514734.jpg , https://www.journaldugeek.com/content/uploads/cache/2018/04/g3ikr4w95c8eivhzuiyxbjiuixt/3631514734.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Série												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">True Detective : une nouvelle saison par le créateur d’Euphoria ?</h3>
-<p>Selon Casey Bloys, directeur des programmes chez HBO et HBO Max, la firme envisagerait d'engager de ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/cyberpunk-2077-et-the-witcher-3-les-codes-sources-mis-aux-encheres/" title="Cyberpunk 2077 et The Witcher 3 : les codes sources mis aux enchères">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/screenshot-2021-02-11-cd-projekt-red-the-industry-leader-in-creating-role-playing-games-2/2259111739.png , https://www.journaldugeek.com/content/uploads/cache/2021/02/screenshot-2021-02-11-cd-projekt-red-the-industry-leader-in-creating-role-playing-games-2/2259111739.png 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Jeux Vidéo												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Cyberpunk 2077 et The Witcher 3 : les codes sources mis aux enchères</h3>
-<p>Les codes sources ont été mis aux enchères sur le site EXPLOIT avec un prix initial d'un million ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
 <a class="entry__link animation--zoom" href="https://www.journaldugeek.com/bon-plan/disney-sera-bientot-plus-cher-voici-comment-garder-le-prix-actuel-un-an-de-plus/" title="Disney+ sera plus cher le 23 février, voici comment garder le prix actuel un an de plus">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-plus" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/717379436.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/2552971711.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -241,11 +241,11 @@
 											Xbox Series X : date de sortie, prix, capacités … tout ce qu’il faut savoir sur la prochaine console de Microsoft										</h3>
 </a>
 </div>]
-02/12/2021 01:1532 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/12/2021 01:1532 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/12/2021 01:1532 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/12/2021 01:1532 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/12/2021 01:1532 PM - Create data [<div class="entry__item">
+02/12/2021 03:5304 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/12/2021 03:5304 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/12/2021 03:5304 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/12/2021 03:5304 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/12/2021 03:5304 PM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/dossier/selection-films-saint-valentin/" id="" title="Saint-Valentin : que regarder sur Netflix, Amazon, OCS et Disney+?">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/02/stvalentin-scaled/415333832.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/02/stvalentin-scaled/647143086.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -281,5 +281,5 @@
 													apps												</span>
 </a>
 </div>]
-02/12/2021 01:1532 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/12/2021 01:1532 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/12/2021 03:5304 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/12/2021 03:5304 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None

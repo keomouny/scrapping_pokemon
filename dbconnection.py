@@ -27,13 +27,13 @@ class DBConnection:
 
     def insert_db(self, query_plus):
         # query = """INSERT or REPLACE INTO articles (image, title, categorie ) VALUES """
-        query = f"INSERT or REPLACE INTO articles (image, title, categorie ) VALUES {query_plus}"
+        query = f"use database;INSERT or REPLACE INTO articles (image, title, categorie ) VALUES {query_plus}"
         print(query)
         exit()
         self.cursor.execute(query)
 
     def select_from_db(self):
-        query = 'SELECT * FROM articles;'
+        query = 'use database;SELECT * FROM articles;'
         self.cursor.execute(query)
         result = self.cursor.fetchall()
         for i in result:
