@@ -23,11 +23,22 @@ class JDG:
                 'img', {'class': 'entry__img'})['data-srcset'].split(' ,')[0]
             dict_article['title'] = listData[key].find(
                 'h3', {'class': 'entry__title'}).text.strip()
-            if listData[key].find('span', {'class': 'entry__category'}):
+            try:
                 dict_article['categories'] = listData[key].find(
                     'span', {'class': 'entry__category'}).get_text().replace('\t', '').replace('\n', '')
-            else:
+            except:
                 dict_article['categories'] = None
+
             list_actuality.append(dict_article)
             dict_article = {}
         return list_actuality
+
+    def convert_data_for_query(self, listData, str_query):
+        if len(listData):
+            my_list = listData[-1]
+            # print(my_list, end='\r')
+            new_list_data = listData[:-1]
+            str_query = f"{str_query} ('{listData[-1]['images']}', '{listData[-1]['title']}', '{listData[-1]['categories']}')"
+            str_query += ', ' if len(listData) != 1 else ';'
+            return self.convert_data_for_query(new_list_data, str_query)
+        return str_query
