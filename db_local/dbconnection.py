@@ -1,5 +1,6 @@
 import sqlite3
 from setup_logger import logger
+from jdg import pprint
 """singleton class to deal with db"""
 
 
@@ -27,14 +28,12 @@ class DBConnection:
 
     def insert_db(self, query_plus):
         # query = """INSERT or REPLACE INTO articles (image, title, categorie ) VALUES """
-        query = f"use database;INSERT or REPLACE INTO articles (image, title, categorie ) VALUES {query_plus}"
-        print(query)
-        exit()
+        query = f"INSERT or REPLACE INTO articles (image, title, categorie ) VALUES {query_plus}"
         self.cursor.execute(query)
 
     def select_from_db(self):
-        query = 'use database;SELECT * FROM articles;'
+        query = 'SELECT * FROM articles;'
         self.cursor.execute(query)
         result = self.cursor.fetchall()
         for i in result:
-            print(i)
+            pprint(i)

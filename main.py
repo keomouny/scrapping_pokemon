@@ -1,6 +1,6 @@
 from jdg import JDG
-from pprint import pprint
-from dbconnection import *
+from jdg import pprint
+from db import *
 
 
 def main():
@@ -17,13 +17,21 @@ def main():
 
     all_data = list_actuality + list_Une
 
-    data_query = JDG().convert_data_for_query(all_data, '')
+    # print(all_data)
 
-    test_db = DBConnection()
-    test_db.create_db()
-    test_db.insert_db(data_query)
-    test_db.select_from_db()
-    test_db.close_db()
+    # print(list_Une)
+    # print(list_actuality)
+
+    # data_query = JDG().convert_data_for_query(all_data, '')
+
+    # print(data_query)
+
+    db_test = DB()
+    db_test.execute_query(db_test.create_db)
+    # db_test.execute_query(db_test.create_table)
+    # db_test.insert_data(all_data)
+    # db_test.execute_query(db_test.select_from_db)
+    db_test.__disconnect__()
 
 
 if __name__ == '__main__':
