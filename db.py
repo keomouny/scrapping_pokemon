@@ -1,5 +1,4 @@
 import mysql.connector
-from mysql.connector.constants import ClientFlag
 from setup_logger import logger
 from jdg import pprint
 
@@ -13,11 +12,10 @@ class DB:
             auth_plugin="mysql_native_password",
             database="db_simplon_test"
         )
-        self.db_name = 'db_JDG'
+        self.db_name = 'db_simplon_test'
         self.query_specify = None
 
     def create_db(self):
-        print('\n'.join(ClientFlag.get_full_info()))
         self.query_specify = f'CREATE DATABASE IF NOT EXISTS {self.db_name};'
 
     def create_table(self):
@@ -33,9 +31,10 @@ class DB:
             print(err)
             exit()
 
-    def select_from_db(self, query):
-        self.query_specify = f'use {self.db_name}; SELECT * FROM articles'
-        self.mycursor.execute(query)
+    def select_from_db(self):
+        self.mycursor = self.myconn.cursor()
+        self.query_specify = 'SELECT * FROM departement'
+        self.mycursor.execute(self.query_specify)
         result = self.mycursor.fetchall()
         for i in result:
             print(i)

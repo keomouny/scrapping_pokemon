@@ -27,7 +27,8 @@ def main():
     # print(data_query)
 
     db_test = DB()
-    db_test.execute_query(db_test.create_db)
+    db_test.select_from_db()
+    # db_test.execute_query(db_test.create_db)
     # db_test.execute_query(db_test.create_table)
     # db_test.insert_data(all_data)
     # db_test.execute_query(db_test.select_from_db)
