@@ -1,8 +1,8 @@
-02/14/2021 08:3530 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 08:3531 AM - Create data [<div class="entry__item">
+02/14/2021 09:4801 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 09:4801 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 09:4801 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 09:4801 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 09:4802 AM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -36,6 +36,19 @@
 											Cyberpunk 2077 et The Witcher 3 : les codes sources mis aux enchères										</h3>
 <span class="entry__category">
 													Jeux Vidéo												</span>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/14/une-carte-detaillee-pour-sy-retrouver-dans-the-walking-dead/" title="Une carte détaillée pour s’y retrouver dans The Walking Dead">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/10026733/3407994568.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/10026733/3407994568.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Série												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Une carte détaillée pour s’y retrouver dans The Walking Dead</h3>
+<p>Cette carte des États-Unis réalisée par un fan permet de repérer l'emplacement des différents ...</p>
+</div>
 </a>
 </div>, <div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/13/orange-et-facebook-posent-un-cable-sous-marin-entre-les-etats-unis-et-la-france/" title="Orange et Facebook posent un câble sous-marin entre les États-Unis et la France">
@@ -168,19 +181,6 @@
 </div>
 </a>
 </div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/les-samsung-galaxy-a52-et-a72-beneficieront-decrans-90-et-120-hz/" title="Les Samsung Galaxy A52 et A72 bénéficieront d’écrans 90 et 120 Hz">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/samsung-galaxy-a52-5g-1/3754104800.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/samsung-galaxy-a52-5g-1/3754104800.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Smartphone												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Les Samsung Galaxy A52 et A72 bénéficieront d’écrans 90 et 120 Hz</h3>
-<p>Les deux prochains smartphones milieux de gamme de Samsung intégreront des écrans 90 et 120 Hz, si ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
 <a class="entry__link animation--zoom" href="https://www.journaldugeek.com/bon-plan/disney-sera-bientot-plus-cher-voici-comment-garder-le-prix-actuel-un-an-de-plus/" title="Disney+ sera plus cher le 23 février, voici comment garder le prix actuel un an de plus">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-plus" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/717379436.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/2552971711.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -241,11 +241,11 @@
 											Xbox Series X : date de sortie, prix, capacités … tout ce qu’il faut savoir sur la prochaine console de Microsoft										</h3>
 </a>
 </div>]
-02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 08:3532 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 08:3532 AM - Create data [<div class="entry__item">
+02/14/2021 09:4802 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 09:4802 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 09:4802 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 09:4802 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 09:4802 AM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -281,4 +281,4 @@
 													Jeux Vidéo												</span>
 </a>
 </div>]
-02/14/2021 08:3532 AM - new_auth_plugin: mysql_native_password
+02/14/2021 09:4802 AM - new_auth_plugin: mysql_native_password
