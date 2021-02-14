@@ -5,9 +5,9 @@ from jdg import pprint
 
 class DB:
     def __init__(self):
-        self.db_name = 'lolicon'
+        self.db_name = 'db_JDG'
         self.myconn = mysql.connector.connect(
-            host="mounyms",
+            host="localhost",
             user="root",
             password="root",
             auth_plugin="mysql_native_password",
@@ -32,8 +32,7 @@ class DB:
 
     def select_from_db(self):
         self.mycursor = self.myconn.cursor()
-        # self.query_specify = 'SELECT * FROM articles'
-        self.query_specify = 'SELECT * FROM departement;'
+        self.query_specify = 'SELECT * FROM articles'
         self.mycursor.execute(self.query_specify)
         result = self.mycursor.fetchall()
         for i in result:
