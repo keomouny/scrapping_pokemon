@@ -18,10 +18,10 @@ def main():
     all_data = list_actuality + list_Une
 
     db_test = DB()
-    db_test.execute_query(db_test.create_db)
+    # db_test.execute_query(db_test.create_db)
     # db_test.execute_query(db_test.create_table)
     # db_test.insert_data(all_data)
-    # db_test.select_from_db()
+    db_test.select_from_db()
     db_test.__disconnect__()
 
 

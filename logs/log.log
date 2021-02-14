@@ -1,8 +1,8 @@
-02/14/2021 09:4801 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 09:4801 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 09:4801 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 09:4801 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 09:4802 AM - Create data [<div class="entry__item">
+02/14/2021 01:1116 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 01:1116 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 01:1116 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 01:1116 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 01:1117 PM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -36,6 +36,58 @@
 											Cyberpunk 2077 et The Witcher 3 : les codes sources mis aux enchères										</h3>
 <span class="entry__category">
 													Jeux Vidéo												</span>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/14/mastercard-prend-en-charge-les-cryptomonnaies-miami-veut-payer-ses-fonctionnaires-en-bitcoins/" title="Mastercard prend en charge les cryptomonnaies, Miami veut payer ses fonctionnaires en bitcoins">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/blockchain-3446557-1280/1948425543.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/blockchain-3446557-1280/1948425543.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Business												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Mastercard prend en charge les cryptomonnaies, Miami veut payer ses fonctionnaires en bitcoins</h3>
+<p>Mastercard va autoriser ses clients à payer avec des stablecoins.</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/14/nouvelle-interface-et-nouvelles-fonctions-pour-vlc-4-0-attendu-cette-annee/" title="Nouvelle interface et nouvelles fonctions pour VLC 4.0, attendu cette année">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/vlc-01-scaled/417793999.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/vlc-01-scaled/417793999.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													apps												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Nouvelle interface et nouvelles fonctions pour VLC 4.0, attendu cette année</h3>
+<p>Le célèbre lecteur audio/vidéo VLC va gagner une nouvelle apparence dans sa version 4.0.</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/dossier/ps5-le-point-sur-les-stocks-et-nos-astuces-pour-ne-pas-la-rater/" title="PS5 : le point sur les stocks et nos astuces pour ne pas la rater">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/playstation-5/143166648.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/playstation-5/143166648.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Jeux Vidéo												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">PS5 : le point sur les stocks et nos astuces pour ne pas la rater</h3>
+<p>Depuis qu’elle est sortie le 19 novembre dernier, la console nouvelle génération de Sony, la ...</p>
+</div>
+</a>
+</div>, <div class="entry__item">
+<a class="entry__link" href="https://www.journaldugeek.com/2021/02/14/vivo-x51-pourquoi-la-gimbal-revolutionne-lappareil-photo-du-smartphone/" title="Vivo X51 : pourquoi la gimbal révolutionne l’appareil photo du smartphone ?">
+<div class="entry__thumbnail">
+<div class="entry__img-container">
+<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/10/vivo-x51-5g-14-live/796695810.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/10/vivo-x51-5g-14-live/796695810.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
+													Publication Partenaire												</span>
+</div>
+</div>
+<div class="entry__caption">
+<h3 class="entry__title">Vivo X51 : pourquoi la gimbal révolutionne l’appareil photo du smartphone ?</h3>
+<p>Le Vivo X51 qui a pour particularité d'intégrer un capteur photo monté sur une gimbal. Voici ...</p>
+</div>
 </a>
 </div>, <div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/14/une-carte-detaillee-pour-sy-retrouver-dans-the-walking-dead/" title="Une carte détaillée pour s’y retrouver dans The Walking Dead">
@@ -129,58 +181,6 @@
 </div>
 </a>
 </div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/13/la-ratp-lance-sa-chaine-de-gifs/" title="La RATP lance sa chaîne de GIFs !">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/ratp/1977750684.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/ratp/1977750684.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Sur le web												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">La RATP lance sa chaîne de GIFs !</h3>
-<p>La RATP propose une collection de GIFs officiels pour toutes les situations.</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/13/covid-19-faut-il-vraiment-porter-deux-masques/" title="Covid 19 : faut-il vraiment porter deux masques ?">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/06/masque-dossier-3-jc-cards-pixabay/4169563418.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/06/masque-dossier-3-jc-cards-pixabay/4169563418.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Général												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Covid 19 : faut-il vraiment porter deux masques ?</h3>
-<p>Si le CDC américain affirme que cela augmente l'efficacité du dispositif, en France, l'AFNOR émet ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/kingdom-hearts-la-saga-de-jeux-arrive-enfin-sur-pc/" title="Kingdom Hearts : la saga de jeux arrive enfin sur PC !">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/kingdom-hearts/4262756290.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/kingdom-hearts/4262756290.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Jeux Vidéo												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Kingdom Hearts : la saga de jeux arrive enfin sur PC !</h3>
-<p>Quatre packs sont disponibles à la précommande dès aujourd’hui, et seront jouables dès le 30 ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
-<a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/bitcoin-le-big-boss-de-twitter-et-jay-z-investissent-a-leur-tour/" title="Bitcoin : le big boss de Twitter et Jay-Z investissent à leur tour">
-<div class="entry__thumbnail">
-<div class="entry__img-container">
-<img alt="" class="entry__img lazyload" data-location="entry-post" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2021/02/dmitry-demidko-z4vurg-zoeg-unsplash-scaled/1315559026.jpg , https://www.journaldugeek.com/content/uploads/cache/2021/02/dmitry-demidko-z4vurg-zoeg-unsplash-scaled/1315559026.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> <span class="entry__category">
-													Business												</span>
-</div>
-</div>
-<div class="entry__caption">
-<h3 class="entry__title">Bitcoin : le big boss de Twitter et Jay-Z investissent à leur tour</h3>
-<p>Tous deux viennent de s’unir pour lancer BTrust, un fonds qui devrait permettre de « faire du ...</p>
-</div>
-</a>
-</div>, <div class="entry__item">
 <a class="entry__link animation--zoom" href="https://www.journaldugeek.com/bon-plan/disney-sera-bientot-plus-cher-voici-comment-garder-le-prix-actuel-un-an-de-plus/" title="Disney+ sera plus cher le 23 février, voici comment garder le prix actuel un an de plus">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-plus" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/717379436.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/11/wv2/2552971711.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -241,11 +241,11 @@
 											Xbox Series X : date de sortie, prix, capacités … tout ce qu’il faut savoir sur la prochaine console de Microsoft										</h3>
 </a>
 </div>]
-02/14/2021 09:4802 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 09:4802 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 09:4802 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/14/2021 09:4802 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/14/2021 09:4802 AM - Create data [<div class="entry__item">
+02/14/2021 01:1117 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 01:1117 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 01:1117 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 01:1117 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 01:1117 PM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -281,4 +281,6 @@
 													Jeux Vidéo												</span>
 </a>
 </div>]
-02/14/2021 09:4802 AM - new_auth_plugin: mysql_native_password
+02/14/2021 01:1117 PM - new_auth_plugin: mysql_native_password
+02/14/2021 01:1117 PM - # request: b'.\x85$8\x11]\xb1X01B\xb8\x92\x9e\x88\x07\x81\x91\x0el\xda\xdc\x86#\xfe1u\xb1E\xaf\x1f\x8e' size: 32
+02/14/2021 01:1117 PM - # server response packet: bytearray(b'\x02\x00\x00\x05\x01\x04')
