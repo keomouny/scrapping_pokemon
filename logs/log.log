@@ -1,8 +1,8 @@
-02/13/2021 11:2903 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/13/2021 11:2903 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/13/2021 11:2903 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/13/2021 11:2904 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/13/2021 11:2904 PM - Create data [<div class="entry__item">
+02/14/2021 08:3530 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 08:3531 AM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -241,11 +241,11 @@
 											Xbox Series X : date de sortie, prix, capacités … tout ce qu’il faut savoir sur la prochaine console de Microsoft										</h3>
 </a>
 </div>]
-02/13/2021 11:2904 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/13/2021 11:2904 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/13/2021 11:2904 PM - Starting new HTTPS connection (1): www.journaldugeek.com:443
-02/13/2021 11:2905 PM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
-02/13/2021 11:2905 PM - Create data [<div class="entry__item">
+02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 08:3531 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 08:3531 AM - Starting new HTTPS connection (1): www.journaldugeek.com:443
+02/14/2021 08:3532 AM - https://www.journaldugeek.com:443 "GET / HTTP/1.1" 200 None
+02/14/2021 08:3532 AM - Create data [<div class="entry__item">
 <a class="entry__link" href="https://www.journaldugeek.com/2021/02/12/gmail-plus-de-3-milliards-de-mots-de-passe-ont-fuite-voici-comment-verifier-le-votre/" id="" title="Gmail : Plus de 3 milliards de mots de passe ont fuité, voici comment vérifier le vôtre">
 <div class="entry__img-container">
 <img alt="" class="entry__img lazyload" data-location="entry-news" data-srcset="https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2729964486.jpg , https://www.journaldugeek.com/content/uploads/cache/2020/04/gmail-google-mail/2632192160.jpg 2x" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/> </div>
@@ -281,4 +281,4 @@
 													Jeux Vidéo												</span>
 </a>
 </div>]
-02/13/2021 11:2905 PM - new_auth_plugin: mysql_native_password
+02/14/2021 08:3532 AM - new_auth_plugin: mysql_native_password

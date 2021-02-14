@@ -17,21 +17,11 @@ def main():
 
     all_data = list_actuality + list_Une
 
-    # print(all_data)
-
-    # print(list_Une)
-    # print(list_actuality)
-
-    # data_query = JDG().convert_data_for_query(all_data, '')
-
-    # print(data_query)
-
     db_test = DB()
-    db_test.select_from_db()
-    # db_test.execute_query(db_test.create_db)
-    # db_test.execute_query(db_test.create_table)
+    db_test.execute_query(db_test.create_db)
+    db_test.execute_query(db_test.create_table)
     # db_test.insert_data(all_data)
-    # db_test.execute_query(db_test.select_from_db)
+    db_test.select_from_db()
     db_test.__disconnect__()
 
 
