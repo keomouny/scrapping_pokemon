@@ -32,12 +32,3 @@ class JDG:
             list_actuality.append(tuple(list_article))
             list_article = []
         return list_actuality
-
-    # def convert_data_for_query(self, listData, str_query):
-    #     if len(listData):
-    #         my_list = listData[0]
-    #         new_list_data = listData[1:]
-    #         str_query = f"{str_query} ('{listData[0]['images']}', '{listData[0]['title']}', '{listData[0]['categories']}')"
-    #         str_query += ', ' if len(listData) != 1 else ';'
-    #         return self.convert_data_for_query(new_list_data, str_query)
-    #     return str_query
