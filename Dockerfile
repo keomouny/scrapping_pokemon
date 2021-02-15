@@ -2,7 +2,7 @@ FROM python:latest
 
 WORKDIR /scrap
 
-COPY . /scrap
+COPY . .
 
 RUN pip3 install -r files/requirements.txt
 
