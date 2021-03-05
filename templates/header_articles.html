@@ -1,0 +1,15 @@
+{% extends "base/base.html" %}
+{% block title %}list articles à la une{% endblock title %}
+{% block content %}
+    <section>
+        <h1>liste des articles à la Une</h1>
+        <ul>
+            {% for data_one in data %}
+                <li>
+                    <p>{{ data_one['title'] }}</p>
+                    <img src={{ data_one['image'] }} alt='picture of {{ data_one['title']}}' />
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+{% endblock content %}

@@ -1,0 +1,41 @@
+{% extends "base/base.html" %}
+{% block title %}ma page admin{% endblock title %}
+{% block content %}
+    <section>
+        <article>
+            <h1>page adminstrator<h1>
+            <p>{{ message }}</p>
+        </article>
+        <article>
+            <h2>Create Table</h2>
+            <a href="/create_table/header_articles">header_articles</a>
+            <a href="/create_table/all_news">all_news</a>
+            <a href="/create_table/all_posts">all_posts</a>
+        </article>
+        <article>
+            <h2>Remove Table</h2>
+            <a href="/remove_table/header_articles">header_articles</a>
+            <a href="/remove_table/all_news">all_news</a>
+            <a href="/remove_table/all_posts">all_posts</a>
+        </article>
+        <article>
+            <h2>Remove data</h2>
+            <a href="/remove_data/header_articles">header_articles</a>
+            <a href="/remove_data/all_news">all_news</a>
+            <a href="/remove_data/all_posts">all_posts</a>
+        </article>
+        <article>
+            <h2>Insert data</h2>
+            <a href="/insert_data/header_articles">header_articles</a>
+            <a href="/insert_data/all_news">all_news</a>
+            <a href="/insert_data/all_posts">all_posts</a>
+        </article>
+        <article>
+            <h2>Api list</h2>
+            <a href="/api/query_data/header_articles" target="blank">header_articles</a>
+            <a href="/api/query_data/all_news" target="blank">all_news</a>
+            <a href="/api/query_data/all_posts" target="blank">all_posts</a>
+            <a href="/api/query_data/all_data" target="blank">all_data</a>
+        </article>      
+    </section>
+{% endblock content %}

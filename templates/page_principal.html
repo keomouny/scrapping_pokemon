@@ -1,0 +1,47 @@
+{% extends "base/base.html" %}
+{% block title %}ma page alldata{% endblock title %}
+{% block content %}
+{% if data %}
+    <section>
+        <h1>liste de la Une</h1>
+        <ul>
+            {% for data_one in data['header_articles'] %}
+                <li>
+                    <p>{{ data_one['title'] }}</p>
+                    <img src={{ data_one['image'] }} alt='picture of {{ data_one['title']}}' />
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <section>
+        <h1>liste des news</h1>
+        <ul>
+            {% for data_one in data['all_news'] %}
+                <li>
+                    <p>{{ data_one['title'] }}</p>
+                    <img src={{ data_one['image'] }} alt='picture of {{ data_one['title']}}' />
+                    <p>{{ data_one['description'] }}</p>
+                    <p>{{ data_one['author'] }}</p>
+                    <p>{{ data_one['nb_commentary'] }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <section>
+        <h1>liste des posts</h1>
+        <ul>
+            {% for data_one in data['all_posts'] %}
+                <li>
+                    <p>{{ data_one['title'] }}</p>
+                    <img src={{ data_one['image'] }} alt='picture of {{ data_one['title']}}' />
+                    <p>{{ data_one['description'] }}</p>
+                    <p>{{ data_one['nb_commentary'] }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+{% else %}
+    <p>Aucune donnée</p>
+{% endif %}
+
+{% endblock content %}

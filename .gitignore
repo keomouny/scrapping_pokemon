@@ -1,0 +1,4 @@
+.gitgnore
+__pycache__
+divers
+.DS_Store

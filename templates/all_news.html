@@ -1,0 +1,18 @@
+{% extends "base/base.html" %}
+{% block title %}ma page all news{% endblock title %}
+{% block content %}
+    <section>
+        <h1>liste des news</h1>
+        <ul>
+            {% for data_one in data %}
+                <li>
+                    <p>{{ data_one['title'] }}</p>
+                    <img src={{ data_one['image'] }} alt='picture of {{ data_one['title']}}' />
+                    <p>{{ data_one['description'] }}</p>
+                    <p>{{ data_one['author'] }}</p>
+                    <p>{{ data_one['nb_commentary'] }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+{% endblock content %}
