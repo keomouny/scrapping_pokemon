@@ -1,3 +1,19 @@
-# scrapping_and_mysql
+# Scrapping articles in pokemontrash.com
 
-get data from website and get it to database for training
+## Description
+
+Project create with
+
+## Technologie
+
+- docker
+- Flask
+- Python
+-
+
+## Installation
+
+```
+git clone https://github.com/keomouny/scrapping_and_mysql.git
+docker-compose up
+```
