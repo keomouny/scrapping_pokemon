@@ -2,6 +2,8 @@ import mysql.connector
 from setup_logger import logger
 from pokemon import pprint
 import time
+import os
+from dotenv import load_dotenv
 
 
 class DB:
@@ -9,12 +11,13 @@ class DB:
 
     def __init__(self):
         time.sleep(1)
+        load_dotenv()
         logger.info('connect to database')
-        self.db_name = 'db_pokemon'
+        self.db_name = os.environ.get('MSQL_DBNAME')
         self.myconn = mysql.connector.connect(
-            host="db",
-            user="mouny",
-            password="pwd",
+            host=os.environ.get('MSQL_HOST'),
+            user=os.environ.get('MSQL_USER'),
+            password=os.environ.get('MYSQL_PASSWORD'),
             port=3306,
             auth_plugin="mysql_native_password",
             database=self.db_name

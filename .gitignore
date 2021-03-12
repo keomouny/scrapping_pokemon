@@ -1,4 +1,5 @@
-.gitgnore
+.gitignore
 __pycache__
 divers
 .DS_Store
+.env
